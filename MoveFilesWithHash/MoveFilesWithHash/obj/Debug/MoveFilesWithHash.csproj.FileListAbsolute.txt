@@ -1,0 +1,13 @@
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\bin\Debug\MoveFilesWithHash.exe.config
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\bin\Debug\MoveFilesWithHash.exe
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\bin\Debug\MoveFilesWithHash.pdb
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\obj\Debug\MoveFilesWithHash.csprojAssemblyReference.cache
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\obj\Debug\MoveFilesWithHash.Form1.resources
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\obj\Debug\MoveFilesWithHash.Properties.Resources.resources
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\obj\Debug\MoveFilesWithHash.csproj.GenerateResource.cache
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\obj\Debug\MoveFilesWithHash.exe
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\obj\Debug\MoveFilesWithHash.pdb
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\bin\Debug\MoveFilesWithHash.exe.manifest
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\bin\Debug\MoveFilesWithHash.application
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\obj\Debug\MoveFilesWithHash.exe.manifest
+C:\Users\ralph\source\repos\MoveFilesWithHash\MoveFilesWithHash\obj\Debug\MoveFilesWithHash.application
